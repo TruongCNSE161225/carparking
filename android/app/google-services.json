@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "286648231344",
+    "project_id": "parkx-22f01",
+    "storage_bucket": "parkx-22f01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286648231344:android:38623d2aaf89ca35816275",
+        "android_client_info": {
+          "package_name": "com.example.carparkingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286648231344-ngns0b8pti33bogua8dl3gme0a74clq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7ZsDag-052o15aPv6N9knRqo559yyvZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286648231344-ngns0b8pti33bogua8dl3gme0a74clq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
